@@ -1,7 +1,7 @@
 const API_KEY = "168771779c71f3d64106d8a88376808a";
 const weatherId = document.querySelector("#weather");
 
-async function getWeather() {
+async function getWeather() { 
     console.log('hello');
     let city = 'indore';
     const response = await fetch(

@@ -8,7 +8,7 @@ function renderWeatherInfo(data) {
 }
 
 async function showWeather() {
-  try {
+  try { 
     let city = "mandsaur";
     const response = await fetch(
       `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`

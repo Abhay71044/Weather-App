@@ -112,7 +112,7 @@ screenshots/search.png
 - Voice Search
 
 ---
-
+ 
 ## 👨‍💻 Author
 
 **Abhay Singh**
